@@ -85,7 +85,6 @@ public class Main {
                     else
                         break;
                 }
-                    //break;
             }
 
             if(size==20)
